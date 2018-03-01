@@ -1,0 +1,9 @@
+{
+  "name": "<%= projectName %>",
+  "version": "<%= version %>",
+  "description": "<%= description %>",
+  "repository": "<%= repo %>",
+  "author": "<%= fullname %> <<%= email %>>",
+  "devDependencies": {
+  }
+}
